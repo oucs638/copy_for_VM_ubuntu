@@ -1,1 +1,0 @@
-# copy_for_VM_ubuntu
